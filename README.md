@@ -42,13 +42,13 @@ To parse the provided logs, we need first to convert the EVTX logs into CSV usin
 For TimelineExplorer.exe, we can load the exported CSV file by doing the following: File > Open > Choose sysmon.csv from C:\Users\user\Desktop\Incident Files directory
 
 <div>
-<img src="" />
+<img src="https://github.com/Modern-Wizard/Preparation---Tools-and-Artifacts/blob/main/ss3.png" />
 </div>
 
 Once the logs are loaded, you may navigate through each column﻿ and use the input field to filter specific logs via a unique string.
 
 <div>
-<img src="" />
+<img src="https://github.com/Modern-Wizard/Preparation---Tools-and-Artifacts/blob/main/ss4.png" />
 </div>
 
 Lastly, you may use the search feature in the upper right-hand corner to find a unique string that may exist on any column.
@@ -59,7 +59,7 @@ Lastly, you may use the search feature in the upper right-hand corner to find a 
 Before using this tool, we must export the log file's contents into XML via Event Viewer.
 
 <div>
-<img src="" />
+<img src="https://github.com/Modern-Wizard/Preparation---Tools-and-Artifacts/blob/main/ss5.png" />
 </div>
 
 The machine will notify you once the file has been successfully exported.
@@ -71,7 +71,7 @@ Usage:
     Choose the image path and session GUID to render the mapped view. 
 
 <div>
-<img src="" />
+<img src="https://github.com/Modern-Wizard/Preparation---Tools-and-Artifacts/blob/main/ss6.png" />
 </div>
 
 This tool can easily view the correlated events from a specific process. The example above summarises all Sysmon events related to explorer.exe.
